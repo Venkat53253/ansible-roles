@@ -1,0 +1,5 @@
+CART_HOST: cart.venaws.site
+USER_HOST: user.venaws.site
+RABBITMQ_HOST: rabbitmq.venaws.site
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
