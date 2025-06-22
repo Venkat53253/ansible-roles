@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.venaws.site
+USER_HOST: user.venaws.site
+CART_HOST: cart.venaws.site
+SHIPPING_HOST: shipping.venaws.site
+PAYMENT_HOST: payment.venaws.site
