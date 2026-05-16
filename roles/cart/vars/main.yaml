@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.venaws.site
-REDIS_HOST: redis.venaws.site
+CATALOGUE_HOST: catalogue.venaws.in
+REDIS_HOST: redis.venaws.in
